@@ -1,0 +1,6 @@
+﻿  simoib2.cpp
+c:\users\студент\source\repos\simoib2\simoib2\simoib2.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\студент\source\repos\simoib2\simoib2\simoib2.cpp(46): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\студент\source\repos\simoib2\simoib2\simoib2.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+  simoib2.vcxproj -> C:\Users\Студент\source\repos\simoib2\Debug\simoib2.exe
+  simoib2.vcxproj -> C:\Users\Студент\source\repos\simoib2\Debug\simoib2.pdb (Partial PDB)

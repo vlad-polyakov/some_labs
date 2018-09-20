@@ -1,0 +1,37 @@
+﻿  lab4.cpp
+c:\users\студент\source\repos\lab4\lab4\graph.h(340): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\студент\source\repos\lab4\lab4\graph.h(337): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\студент\source\repos\lab4\lab4\lab4.cpp(38): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::string Graph<int>::arc_iterator_incident_vertex::get(void)"
+  c:\users\студент\source\repos\lab4\lab4\lab4.cpp(37): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<int>::arc_iterator_incident_vertex"
+c:\users\студент\source\repos\lab4\lab4\graph.h(320): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\студент\source\repos\lab4\lab4\graph.h(319): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\студент\source\repos\lab4\lab4\lab4.cpp(39): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<int>::arc_iterator_incident_vertex::next(void)"
+c:\users\студент\source\repos\lab4\lab4\graph.h(79): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\студент\source\repos\lab4\lab4\graph.h(73): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\студент\source\repos\lab4\lab4\lab4.cpp(21): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::view(void)"
+  c:\users\студент\source\repos\lab4\lab4\lab4.cpp(14): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<int>"
+c:\users\студент\source\repos\lab4\lab4\graph.h(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\студент\source\repos\lab4\lab4\graph.h(85): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\студент\source\repos\lab4\lab4\graph.h(65): warning C4101: i: неиспользованная локальная переменная
+  c:\users\студент\source\repos\lab4\lab4\graph.h(53): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\студент\source\repos\lab4\lab4\lab4.cpp(19): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int>::addArc(T,T)"
+          with
+          [
+              T=int
+          ]
+c:\users\студент\source\repos\lab4\lab4\graph.h(41): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\студент\source\repos\lab4\lab4\graph.h(40): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\студент\source\repos\lab4\lab4\graph.h(59): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<int>::findArc(std::vector<int,std::allocator<_Ty>>)"
+          with
+          [
+              _Ty=int
+          ]
+c:\users\студент\source\repos\lab4\lab4\graph.h(35): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\студент\source\repos\lab4\lab4\graph.h(34): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\студент\source\repos\lab4\lab4\graph.h(55): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool Graph<int>::findNode(T)"
+          with
+          [
+              T=int
+          ]
+  lab4.vcxproj -> C:\Users\Студент\source\repos\lab4\Debug\lab4.exe
+  lab4.vcxproj -> C:\Users\Студент\source\repos\lab4\Debug\lab4.pdb (Partial PDB)

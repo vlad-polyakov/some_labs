@@ -1,0 +1,51 @@
+﻿@model FirstBlood.Models.Guests
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel=" stylesheet" />
+    <title>Thanks</title>
+    <style>
+        body{background: #f1f1f1;}
+    </style>
+</head>
+<body>
+    @{ 
+        try
+        {
+            WebMail.SmtpServer = "smtp.example.com";
+            WebMail.SmtpPort = 587;
+            WebMail.EnableSsl = true;
+            WebMail.UserName = Model.name;
+            WebMail.Password = "password";
+            WebMail.From = "email";
+
+            WebMail.Send("djhdhdfdgj","hlhjlhjfh",Model.name, "gkjhfjfj");
+
+        }
+        catch (Exception)
+        {
+       
+        }
+    }
+    <div class="text-center"> 
+        <h1>Спасибо, @Model.name!</h1>
+        <div class=" lead">
+            @if (Model.Attend == true)
+            {
+                @:Здорово что вы придете, напитки уже в холодильнике ;)
+        }
+            else
+            {
+                @:Увы
+        }
+        </div>
+    </div>
+</body>
+</html>

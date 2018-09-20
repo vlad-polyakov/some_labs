@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel=" stylesheet" />
+    <style>
+        .btn a{
+            color: white;
+            text-decoration: none;
+        }
+
+        body{
+            background-color: #F1F1F1;
+        }
+    </style>
+</head>
+<body>
+    <div class=" text-center"> 
+        <h2>
+           Это типичная вечеринка с бассейном
+        </h2>
+        <h3>
+            Нажмите на кнопку
+        </h3>
+        <div class="btn btn-success">
+            @Html.ActionLink("Форма RSVP", "RsvpForm")
+        </div>       
+    </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\Студент\source\repos\ATM1\ATM1\bin\Debug\ATM1.exe.config
+C:\Users\Студент\source\repos\ATM1\ATM1\bin\Debug\ATM1.exe
+C:\Users\Студент\source\repos\ATM1\ATM1\bin\Debug\ATM1.pdb
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.Form1.resources
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.Properties.Resources.resources
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.csproj.GenerateResource.Cache
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.exe
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.pdb
+C:\Users\Студент\source\repos\ATM1\ATM1\bin\Debug\Database1.mdf
+C:\Users\Студент\source\repos\ATM1\ATM1\bin\Debug\Database1_log.ldf
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.Form2.resources
+C:\Users\Студент\source\repos\ATM1\ATM1\obj\Debug\ATM1.Form3.resources

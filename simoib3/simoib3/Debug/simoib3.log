@@ -1,0 +1,11 @@
+﻿  simoib3.cpp
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(21): warning C4244: =: преобразование "unsigned __int64" в "long double", возможна потеря данных
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(22): warning C4244: =: преобразование "unsigned __int64" в "long double", возможна потеря данных
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(35): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(48): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(61): warning C4244: инициализация: преобразование "unsigned __int64" в "long double", возможна потеря данных
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(68): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(72): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+c:\users\студент\source\repos\simoib3\simoib3\simoib3.cpp(76): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+  simoib3.vcxproj -> C:\Users\Студент\source\repos\simoib3\Debug\simoib3.exe
+  simoib3.vcxproj -> C:\Users\Студент\source\repos\simoib3\Debug\simoib3.pdb (Partial PDB)
